@@ -1,0 +1,5 @@
+Django~=4.1.dev20210927075502
+asgiref~=3.4.1
+sqlparse~=0.4.2
+setuptools~=57.4.0
+requests~=2.26.0

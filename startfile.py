@@ -18,6 +18,7 @@ clear - clean terminal
 python3 manage.py migrate - do migrate
 python manage.py createsuperuser - Create Super User with login and password
 python manage.py runserver - run server
+pip install requests
 '''
 
 
