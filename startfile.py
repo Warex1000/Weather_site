@@ -3,7 +3,6 @@ import django
 print('hello world')   # Python work
 print(django.get_version())   # Django work
 
-
 '''
 python -m pip install Django - install Django
 git clone https://github.com/django/django.git - update Django
