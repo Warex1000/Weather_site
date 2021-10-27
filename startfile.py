@@ -14,10 +14,9 @@ python3 manage.py startapp 'name of application' - create new application in dja
 In main directory of project / settings.py add new application like: 
 INSTALLED_APPS = [ 'weather',] - weather new application
 clear - clean terminal
-python3 manage.py migrate - do migrate
 python manage.py createsuperuser - Create Super User with login and password
 python manage.py runserver - run server
-pip install requests
+pip3 install requests
 python3 manage.py makemigrations - do migrate
 python3 manage.py migrate - do migrate
 '''
